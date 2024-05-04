@@ -1,2 +1,15 @@
 # DigikeyOrderPrice
-A simple Python file created to workout the price of ordering n number of sets of components taken from a CSV file
+
+## Usage
+
+Call the python script like this:
+
+```
+python3 DigikeyPricing.py [CSVFile] [QuantitytoOrder]
+```
+For example:
+
+```
+python3 DigikeyPricing.py BillOfMaterialsPowerPortMax-v5.csv 10
+```
+
